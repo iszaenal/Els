@@ -2,7 +2,7 @@ const arr1 = ["1bb28c","e86a58","fed45b","9bc7c5"]
 const arr2 = [...arr1]
 const arr3 = [...arr1]
 const words2 = ["Iya","SAMA","SAMA"]
-const words3 = ["NICE TO","MEET","YOU","BUBUB😋]
+const words3 = ["NICE TO","MEET","YOU","BUBUB😋"]
 const spans = document.querySelectorAll('h1 span')
 const getHexFrom = (arr) => arr.splice( gsap.utils.random(0 ,arr.length-1, 1), 1)
 
