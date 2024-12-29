@@ -11,7 +11,7 @@ public class westlife extends JPanel {
             "Overseas, from coast to coast",
             "To find a place I love the most",
             "Where the fields are green",
-            "To see you once again........, my love..........."
+            "To see you once again........, my love🥰🥰🥰🥰🥰"
     };
 
     private int[] delays = {
